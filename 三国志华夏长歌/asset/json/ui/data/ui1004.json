@@ -1,0 +1,121 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "52583161031_0.3169195930666502",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "avatarbg",
+                "x": 0,
+                "y": 0,
+                "width": 74,
+                "height": 108,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/team/avatarNormal.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "52583052674_0.6377474248362618",
+                "condition": [],
+                "type": "UIAvatar",
+                "name": "avatar",
+                "x": 38,
+                "y": 86,
+                "width": 192,
+                "height": 192,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "avatarID": 1,
+                "scaleNumberX": 1,
+                "scaleNumberY": 1,
+                "orientationIndex": 0,
+                "avatarFPS": 12,
+                "playOnce": false,
+                "isPlay": true,
+                "avatarFrame": 1,
+                "actionID": 1,
+                "avatarHue": 0
+            },
+            {
+                "id": "52759337262_0.5836118928440586",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "ai",
+                "x": 22,
+                "y": 86,
+                "width": 32,
+                "height": 12,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/team/Automatic.png",
+                "grid9": "0,0,0,0,0",
+                "pivotType": 0
+            },
+            {
+                "id": "58419647230_0.36345577842807186",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "inScene",
+                "x": 8,
+                "y": 44,
+                "width": 58,
+                "height": 24,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/battle/ready/inScene.png",
+                "grid9": "0,0,0,0,0",
+                "pivotType": 0
+            }
+        ]
+    },
+    "id": 1004,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

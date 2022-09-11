@@ -1,0 +1,245 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "53042540012_0.30724092644430523",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "界面背景",
+                "x": 0,
+                "y": 293,
+                "width": 1200,
+                "height": 134,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/battle/stage/enemyBg.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "53042549862_0.07679358878542453",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "battleStageLabel",
+                        "x": 366,
+                        "y": 17,
+                        "width": 1196,
+                        "height": 85,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "敌方行动",
+                        "fontSize": 60,
+                        "color": "#f3ead2",
+                        "bold": false,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 0,
+                        "valign": 1,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": false,
+                        "shadowColor": "#000000",
+                        "shadowDx": 0,
+                        "shadowDy": 0,
+                        "stroke": 2,
+                        "strokeColor": "#9d0808"
+                    },
+                    {
+                        "id": "57448464794_0.8513110482157575",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "装饰背景",
+                        "x": 366.5,
+                        "y": 16,
+                        "width": 507,
+                        "height": 104,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/battle/stage/frame.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57453478242_0.11289429123454808",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "battleStageLabel2",
+                        "x": 370,
+                        "y": 87,
+                        "width": 216,
+                        "height": 25,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "PLAYER PHASE",
+                        "fontSize": 16,
+                        "color": "#f3ead2",
+                        "bold": false,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 0,
+                        "valign": 1,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": false,
+                        "shadowColor": "#000000",
+                        "shadowDx": 0,
+                        "shadowDy": 0,
+                        "stroke": 2,
+                        "strokeColor": "#9d0808"
+                    },
+                    {
+                        "id": "57453713697_0.9880237430880883",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "battleStageLabel3",
+                        "x": 658,
+                        "y": 47,
+                        "width": 1196,
+                        "height": 85,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "第        回合",
+                        "fontSize": 30,
+                        "color": "#f3ead2",
+                        "bold": false,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 0,
+                        "valign": 1,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": false,
+                        "shadowColor": "#000000",
+                        "shadowDx": 0,
+                        "shadowDy": 0,
+                        "stroke": 2,
+                        "strokeColor": "#9d0808"
+                    },
+                    {
+                        "id": "57471774725_0.4859811167471253",
+                        "condition": [],
+                        "type": "UICustomGameNumber",
+                        "name": "当前回合数",
+                        "x": 690,
+                        "y": 73,
+                        "width": 53,
+                        "height": 30,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "customData": [
+                            9,
+                            {
+                                "type": 0
+                            },
+                            [
+                                {
+                                    "55512631094_0.6888093980292296": 0
+                                }
+                            ]
+                        ],
+                        "previewNum": 2,
+                        "previewFixed": 0,
+                        "fontSize": 30,
+                        "color": "#f3ead2",
+                        "bold": false,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 1,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": null,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 2,
+                        "strokeColor": "#9d0808"
+                    }
+                ]
+            }
+        ]
+    },
+    "id": 1024,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

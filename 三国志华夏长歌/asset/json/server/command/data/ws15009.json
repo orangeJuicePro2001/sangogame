@@ -1,0 +1,564 @@
+{
+    "allowClient": false,
+    "conditionSwitch": 1,
+    "updateMode": false,
+    "commands": [
+        [
+            0,
+            0,
+            2,
+            [
+                0,
+                1,
+                15008,
+                0
+            ],
+            0,
+            0,
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            0,
+            [
+                1,
+                1,
+                [
+                    0,
+                    0
+                ]
+            ],
+            0,
+            0,
+            [
+                1,
+                1
+            ],
+            "",
+            "",
+            false,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            0,
+            {
+                "___cmdID": "53032392646_0.7364920694080763"
+            }
+        ],
+        [
+            11,
+            13,
+            null,
+            "",
+            5,
+            -3,
+            "<span style='color:#FfFffF'>该角色必须上场</span>",
+            null,
+            1,
+            0,
+            {
+                "___cmdID": "53032421864_0.9125631610505198"
+            }
+        ],
+        [
+            14,
+            {
+                "___cmdID": "53033791355_0.5516323739749249"
+            }
+        ],
+        [
+            2,
+            {
+                "___cmdID": "53032418718_0.2620120480962398"
+            }
+        ],
+        [
+            0,
+            0,
+            2,
+            [
+                0,
+                1,
+                15008,
+                0
+            ],
+            0,
+            0,
+            [
+                1,
+                1,
+                1,
+                0
+            ],
+            0,
+            [
+                1,
+                1,
+                [
+                    0,
+                    0
+                ]
+            ],
+            0,
+            0,
+            [
+                1,
+                1
+            ],
+            "",
+            "",
+            false,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            0,
+            {
+                "___cmdID": "53033793032_0.07244215626501771"
+            }
+        ],
+        [
+            0,
+            0,
+            4,
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            0,
+            0,
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            0,
+            [
+                1,
+                1,
+                [
+                    0,
+                    0
+                ]
+            ],
+            0,
+            0,
+            [
+                1,
+                1
+            ],
+            "",
+            "",
+            false,
+            null,
+            null,
+            [
+                9,
+                {
+                    "type": 5
+                },
+                [
+                    {
+                        "55512631094_0.6888093980292296": 5
+                    }
+                ]
+            ],
+            null,
+            null,
+            null,
+            0,
+            0,
+            [
+                0,
+                {},
+                ""
+            ],
+            [
+                0,
+                {},
+                ""
+            ],
+            {
+                "___cmdID": "58259947878_0.9505956221554346"
+            }
+        ],
+        [
+            11,
+            13,
+            null,
+            "",
+            5,
+            -3,
+            "<span style='color:#FfFffF'>请选择至少一名角色上场！</span>",
+            null,
+            1,
+            0,
+            {
+                "___cmdID": "58259955945_0.8559868682510454"
+            }
+        ],
+        [
+            14,
+            {
+                "___cmdID": "58259958027_0.13178695014149344"
+            }
+        ],
+        [
+            2,
+            {
+                "___cmdID": "58259953945_0.9177244165967926"
+            }
+        ],
+        [
+            11,
+            13,
+            null,
+            "",
+            5,
+            -3,
+            "<span style='color:#FfFffF'>是否准备完毕？[.s]</span>",
+            null,
+            1,
+            0,
+            {
+                "___cmdID": "53033862124_0.2990886222613609"
+            }
+        ],
+        [
+            3,
+            13,
+            0,
+            1,
+            {
+                "___cmdID": "53033827620_0.026606872667877646"
+            }
+        ],
+        [
+            4,
+            "确定",
+            0,
+            -1,
+            0,
+            0,
+            [],
+            {
+                "___cmdID": "53033832317_0.8511956136955543"
+            }
+        ],
+        [
+            40013,
+            {
+                "49888868392_0.20897767076252083": [
+                    10000001,
+                    [
+                        30,
+                        "{\"transType\":0,\"loopType\":0,\"timeType\":0,\"timeUnit\":1,\"totalTime\":2,\"tweenType\":0,\"tweenTypeName\":\"linearNone\",\"curveData\":[[0,0,0,99,1,1,1,3],[0,100,100]],\"refreshInterval\":16}",
+                        {
+                            "uiID": 13,
+                            "atts": {
+                                "54458065655_0.24528351091865508": [
+                                    0,
+                                    {
+                                        "show": false
+                                    },
+                                    {
+                                        "show": {}
+                                    }
+                                ]
+                            }
+                        },
+                        0,
+                        1,
+                        0
+                    ]
+                ]
+            },
+            "54745273957_0.21034831615667438"
+        ],
+        [
+            20,
+            "准备完毕",
+            "// 当前的事件触发器：trigger: CommandTrigger;\nGUI_BattleReady.readyStageComplete();",
+            "GUI_BattleReady.readyStageComplete();\n",
+            {
+                "___cmdID": "53035861917_0.7713684823622933"
+            }
+        ],
+        [
+            4,
+            "取消",
+            -1,
+            1,
+            0,
+            0,
+            [],
+            {
+                "___cmdID": "53033832317_0.628619496945326"
+            }
+        ],
+        [
+            10,
+            {
+                "___cmdID": "53033832317_0.17437171437501453"
+            }
+        ],
+        [
+            14,
+            {
+                "___cmdID": "53033793032_0.8486861623532835"
+            }
+        ],
+        [
+            2,
+            {
+                "___cmdID": "53033793032_0.8262417522424677"
+            }
+        ],
+        [
+            0,
+            0,
+            2,
+            [
+                0,
+                1,
+                15008,
+                0
+            ],
+            0,
+            0,
+            [
+                2,
+                1,
+                1,
+                0
+            ],
+            0,
+            [
+                1,
+                1,
+                [
+                    0,
+                    0
+                ]
+            ],
+            0,
+            0,
+            [
+                1,
+                1
+            ],
+            "",
+            "",
+            false,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            0,
+            {
+                "___cmdID": "53047731224_0.7672391942288779"
+            }
+        ],
+        [
+            11,
+            13,
+            null,
+            "",
+            5,
+            -3,
+            "<span style='color:#FfFffF'>所有人员就位，要开始战斗吗？[.s]</span>",
+            null,
+            1,
+            0,
+            {
+                "___cmdID": "53047731224_0.7254193035855172"
+            }
+        ],
+        [
+            3,
+            13,
+            0,
+            1,
+            {
+                "___cmdID": "53047731224_0.665691718595766"
+            }
+        ],
+        [
+            4,
+            "确定",
+            0,
+            -1,
+            0,
+            0,
+            [],
+            {
+                "___cmdID": "53047731224_0.24894927400477607"
+            }
+        ],
+        [
+            40013,
+            {
+                "49888868392_0.20897767076252083": [
+                    10000001,
+                    [
+                        30,
+                        "{\"transType\":0,\"loopType\":0,\"timeType\":0,\"timeUnit\":1,\"totalTime\":2,\"tweenType\":0,\"tweenTypeName\":\"linearNone\",\"curveData\":[[0,0,0,99,1,1,1,3],[0,100,100]],\"refreshInterval\":16}",
+                        {
+                            "uiID": 13,
+                            "atts": {
+                                "54458065655_0.24528351091865508": [
+                                    0,
+                                    {
+                                        "show": false
+                                    },
+                                    {
+                                        "show": {}
+                                    }
+                                ]
+                            }
+                        },
+                        0,
+                        1,
+                        0
+                    ]
+                ]
+            },
+            "54745173804_0.5279471865682237"
+        ],
+        [
+            20,
+            "准备完毕",
+            "// 当前的事件触发器：trigger: CommandTrigger;\nGUI_BattleReady.readyStageComplete();",
+            "GUI_BattleReady.readyStageComplete();\n",
+            {
+                "___cmdID": "53047731224_0.4593943691913913"
+            }
+        ],
+        [
+            4,
+            "取消",
+            -1,
+            1,
+            0,
+            0,
+            [],
+            {
+                "___cmdID": "53047731224_0.5829296088498108"
+            }
+        ],
+        [
+            10,
+            {
+                "___cmdID": "53047731224_0.6540904528443556"
+            }
+        ],
+        [
+            14,
+            {
+                "___cmdID": "53047731224_0.7840607679432685"
+            }
+        ],
+        [
+            2,
+            {
+                "___cmdID": "53047731224_0.03128038447635961"
+            }
+        ],
+        [
+            0,
+            0,
+            2,
+            [
+                0,
+                1,
+                15008,
+                0
+            ],
+            0,
+            0,
+            [
+                10,
+                1,
+                1,
+                0
+            ],
+            0,
+            [
+                1,
+                1,
+                [
+                    0,
+                    0
+                ]
+            ],
+            0,
+            0,
+            [
+                1,
+                1
+            ],
+            "",
+            "",
+            false,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            0,
+            {
+                "___cmdID": "53036680096_0.8974777198431063"
+            }
+        ],
+        [
+            20,
+            "失败条件话语设置",
+            "// 设定失败条件\nif (GameBattle.setting.advancedSettings && GameBattle.setting.addFailConditions.length > 0) {\n    var failActorNames = [];\n    for (var i = 0; i < GameBattle.setting.addFailConditions.length; i++) {\n        var actorID = GameBattle.setting.addFailConditions[i];\n        var presetActor = GameData.getModuleData(1, actorID);\n        if (presetActor) {\n            failActorNames.push(presetActor.name);\n        }\n    }\n    Game.player.variable.setString(15001, \"以下任意角色阵亡：\" + failActorNames.join(\"、\"));\n}\nelse {\n    Game.player.variable.setString(15001, \"我方全员阵亡\");\n}",
+            "if (GameBattle.setting.advancedSettings && GameBattle.setting.addFailConditions.length > 0) {\n    var failActorNames = [];\n    for (var i = 0; i < GameBattle.setting.addFailConditions.length; i++) {\n        var actorID = GameBattle.setting.addFailConditions[i];\n        var presetActor = GameData.getModuleData(1, actorID);\n        if (presetActor) {\n            failActorNames.push(presetActor.name);\n        }\n    }\n    Game.player.variable.setString(15001, \"以下任意角色阵亡：\" + failActorNames.join(\"、\"));\n}\nelse {\n    Game.player.variable.setString(15001, \"我方全员阵亡\");\n}\n",
+            {
+                "___cmdID": "56192005589_0.6200033488573118"
+            }
+        ],
+        [
+            11,
+            13,
+            null,
+            "",
+            5,
+            -3,
+            "<span style='color:#FfFffF'>胜利条件：敌方全员阵亡\n</span><span style='color:#FfFffF'>失败条件：[@s15001]</span>",
+            null,
+            1,
+            0,
+            {
+                "___cmdID": "53036680096_0.5847303396314747"
+            }
+        ],
+        [
+            14,
+            {
+                "___cmdID": "53036680096_0.1664007249575652"
+            }
+        ],
+        [
+            2,
+            {
+                "___cmdID": "53036680096_0.7678344991418922"
+            }
+        ]
+    ],
+    "id": 15009
+}

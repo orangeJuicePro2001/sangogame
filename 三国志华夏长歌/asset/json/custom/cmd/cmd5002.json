@@ -1,0 +1,58 @@
+{
+    "compAutoOrderLimitHeight": 0,
+    "id": 5002,
+    "blockList": [
+        {
+            "name": "结束战斗",
+            "blockAttrs": [
+                {
+                    "attr": {
+                        "id": "53369750499_0.3968928029193861",
+                        "varName": "battleOverMode",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 2,
+                            "compParam": {
+                                "items": "默认,胜利,失败",
+                                "showIndex": false
+                            }
+                        },
+                        "defaultValue": "1",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "默认：需要完成常规的战斗流程，根据战斗实际胜负",
+                        "alias": "结束方式",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 10,
+                    "x": 15,
+                    "width": 300,
+                    "height": 32
+                }
+            ],
+            "blockCondition": [],
+            "blockHeight": 50,
+            "autoOrder": true,
+            "cmdColor": "#ff5959",
+            "hideBlockTitle": true,
+            "cmdIcon": "asset/image/command/eP_icon_ClearCombat_red.png"
+        }
+    ],
+    "isCustomPhraseDesc": false
+}

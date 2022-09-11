@@ -1,0 +1,39 @@
+[
+    {
+        "allPlugUseData": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [],
+            [],
+            [],
+            [],
+            [
+                15001
+            ],
+            [],
+            null,
+            null,
+            [],
+            [
+                {
+                    "filePath": "Game/GCplug/192/WaitCloseUI.ts",
+                    "isServer": false
+                }
+            ],
+            null,
+            null,
+            [],
+            []
+        ],
+        "id": 192,
+        "name": "等待界面关闭后继续执行事件",
+        "lastUpdateTime": 1618426348,
+        "author": "黑暗之神KDS"
+    }
+]

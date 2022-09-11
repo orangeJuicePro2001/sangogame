@@ -1,0 +1,35 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "57886080916_0.06186664343230697",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "进入战斗背景",
+                "x": 0,
+                "y": 0,
+                "width": 1200,
+                "height": 720,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/shop/bg.png",
+                "grid9": "0,0,0,0,0",
+                "pivotType": 0
+            }
+        ]
+    },
+    "id": 2005,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

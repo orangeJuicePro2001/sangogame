@@ -1,0 +1,663 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "90026052330_0.361660840872996",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "人物信息背景阴影",
+                "x": 381,
+                "y": 134,
+                "width": 209,
+                "height": 514,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/file/bgShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "90027692704_0.5189461865564793",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "人物信息背景阴影",
+                "x": 372,
+                "y": 46,
+                "width": 477,
+                "height": 69,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/file/bgShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "90027159074_0.8006666584756141",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "图片",
+                "x": 366,
+                "y": 41,
+                "width": 480,
+                "height": 69,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/uibitmap.png",
+                "grid9": "46,52,52,44,1",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "90027183504_0.42731844581543377",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "物品交换",
+                        "x": 15,
+                        "y": 29,
+                        "width": 431,
+                        "height": 22,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "交换道具",
+                        "fontSize": 18,
+                        "color": "#523731",
+                        "bold": true,
+                        "italic": false,
+                        "smooth": null,
+                        "align": 1,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": null,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000",
+                        "onChangeFragEvent": null
+                    }
+                ]
+            },
+            {
+                "id": "90027518305_0.6168272070180951",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "actorPanel1",
+                "x": 365,
+                "y": 124,
+                "width": 222,
+                "height": 517,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/uibitmap.png",
+                "grid9": "46,52,52,44,1",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "90027518305_0.6367098897833352",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像底衬",
+                        "x": 22,
+                        "y": 22,
+                        "width": 127,
+                        "height": 202,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrameBg.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "90027518306_0.32214789718158987",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像虚线底衬",
+                        "x": 24,
+                        "y": 25,
+                        "width": 119,
+                        "height": 194,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrame.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "90027518306_0.5060401489254445",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "actorFace1",
+                        "x": 26,
+                        "y": 26,
+                        "width": 121,
+                        "height": 191,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/face/swordman/Normal_body_half.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "90027518306_0.6638244958660313",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像覆盖层",
+                        "x": 22,
+                        "y": 22,
+                        "width": 127,
+                        "height": 202,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrameEmptyBg.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "90027518306_0.17833195851256556",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "actorName1",
+                        "x": 27,
+                        "y": 236,
+                        "width": 142,
+                        "height": 19,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "伊斯特",
+                        "fontSize": 21,
+                        "color": "#523731",
+                        "bold": true,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 0,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": false,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000",
+                        "onChangeFragEvent": null
+                    },
+                    {
+                        "id": "90027518306_0.07750269958344713",
+                        "condition": [],
+                        "type": "UIList",
+                        "name": "itemPackageList1",
+                        "x": 25,
+                        "y": 268,
+                        "width": 182,
+                        "height": 239,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "itemModelGUI": 1031,
+                        "previewSize": 15,
+                        "selectEnable": true,
+                        "repeatX": 1,
+                        "itemWidth": 175,
+                        "itemHeight": 43,
+                        "spaceX": 5,
+                        "spaceY": 5,
+                        "scrollShowType": 2,
+                        "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                        "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                        "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                        "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                        "scrollWidth": 4,
+                        "selectImageURL": "asset/image/picture/ui/backpack/itemSelect.png",
+                        "selectImageGrid9": "13,10,13,15,0",
+                        "selectedImageAlpha": 1,
+                        "selectedImageOnTop": true,
+                        "overImageURL": "",
+                        "overImageGrid9": "0,0,0,0,0",
+                        "overImageAlpha": 1,
+                        "overImageOnTop": true,
+                        "overSelectMode": false,
+                        "slowmotionType": 0
+                    }
+                ]
+            },
+            {
+                "id": "90027563703_0.8992513658592429",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "人物信息背景阴影",
+                "x": 642,
+                "y": 134,
+                "width": 209,
+                "height": 514,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/file/bgShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "90027563703_0.5014931764379142",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "actorPanel2",
+                "x": 626,
+                "y": 124,
+                "width": 222,
+                "height": 517,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/uibitmap.png",
+                "grid9": "46,52,52,44,1",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "90027563703_0.15787438221521644",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像底衬",
+                        "x": 22,
+                        "y": 22,
+                        "width": 127,
+                        "height": 202,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrameBg.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "90027563704_0.4164529752876138",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像虚线底衬",
+                        "x": 24,
+                        "y": 25,
+                        "width": 119,
+                        "height": 194,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrame.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "90027563704_0.5175389975985634",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "actorFace2",
+                        "x": 26,
+                        "y": 26,
+                        "width": 121,
+                        "height": 191,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/face/swordman/Normal_body_half.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "90027563704_0.37277289552680926",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像覆盖层",
+                        "x": 22,
+                        "y": 22,
+                        "width": 127,
+                        "height": 202,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrameEmptyBg.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "90027563704_0.32276203743240717",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "actorName2",
+                        "x": 27,
+                        "y": 236,
+                        "width": 142,
+                        "height": 19,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "伊斯特",
+                        "fontSize": 21,
+                        "color": "#523731",
+                        "bold": true,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 0,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": false,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000",
+                        "onChangeFragEvent": null
+                    },
+                    {
+                        "id": "90027563704_0.7862961803752453",
+                        "condition": [],
+                        "type": "UIList",
+                        "name": "itemPackageList2",
+                        "x": 25,
+                        "y": 268,
+                        "width": 182,
+                        "height": 239,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "itemModelGUI": 1031,
+                        "previewSize": 15,
+                        "selectEnable": true,
+                        "repeatX": 1,
+                        "itemWidth": 175,
+                        "itemHeight": 43,
+                        "spaceX": 5,
+                        "spaceY": 5,
+                        "scrollShowType": 2,
+                        "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                        "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                        "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                        "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                        "scrollWidth": 4,
+                        "selectImageURL": "asset/image/picture/ui/backpack/itemSelect.png",
+                        "selectImageGrid9": "13,10,13,15,0",
+                        "selectedImageAlpha": 1,
+                        "selectedImageOnTop": true,
+                        "overImageURL": "",
+                        "overImageGrid9": "0,0,0,0,0",
+                        "overImageAlpha": 1,
+                        "overImageOnTop": true,
+                        "overSelectMode": false,
+                        "slowmotionType": 0
+                    }
+                ]
+            },
+            {
+                "id": "90027623848_0.5635747504321464",
+                "condition": [],
+                "type": "UIButton",
+                "name": "closeBtn",
+                "x": 823,
+                "y": 25,
+                "width": 39,
+                "height": 44,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "",
+                "image1": "asset/image/picture/ui/file/closeBtnNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/file/closeBtnSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/file/closeBtnSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#999999",
+                "overColor": "#999999",
+                "clickColor": "#999999",
+                "bold": false,
+                "italic": false,
+                "smooth": false,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": 0,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            }
+        ]
+    },
+    "id": 26,
+    "instanceClassName": "GUI_BattlerExchangeItem",
+    "hasRootCommand": []
+}

@@ -1,0 +1,1042 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/face/monster/monster_head.png",
+            "copy": false
+        },
+        "class": {
+            "varType": 0,
+            "value": 5,
+            "copy": false
+        },
+        "growUpEnabled": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "dropEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "avatar": {
+            "varType": 0,
+            "value": 1002,
+            "copy": false
+        },
+        "smallFace": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "MaxHP": {
+            "varType": 0,
+            "value": 150,
+            "copy": false
+        },
+        "MaxSP": {
+            "varType": 0,
+            "value": 300,
+            "copy": false
+        },
+        "POW": {
+            "varType": 0,
+            "value": 30,
+            "copy": false
+        },
+        "END": {
+            "varType": 0,
+            "value": 10,
+            "copy": false
+        },
+        "MAG": {
+            "varType": 0,
+            "value": 25,
+            "copy": false
+        },
+        "AGI": {
+            "varType": 0,
+            "value": 10,
+            "copy": false
+        },
+        "MaxHPGrow": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "MaxSPGrow": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "POWGrow": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "ENDGrow": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "MAGGrow": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "AGIGrow": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "MaxLv": {
+            "varType": 0,
+            "value": 100,
+            "copy": false
+        },
+        "needEXPGrow": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "MoveGrid": {
+            "varType": 0,
+            "value": 4,
+            "copy": false
+        },
+        "MagDef": {
+            "varType": 0,
+            "value": 25,
+            "copy": false
+        },
+        "HIT": {
+            "varType": 0,
+            "value": 85,
+            "copy": false
+        },
+        "atkMode": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "atkSkill": {
+            "varType": 5,
+            "value": {
+                "id": 9,
+                "data": {
+                    "icon": {
+                        "varType": 1,
+                        "value": "asset/image/picture/icon/skill/Skill_6.png",
+                        "copy": false
+                    },
+                    "intro": {
+                        "varType": 1,
+                        "value": "对敌方目标发射一个火球，造成${s.damageValue+a.ATK*1.25}点魔法伤害，并附加点燃状态！",
+                        "copy": false
+                    },
+                    "skillType": {
+                        "varType": 0,
+                        "value": 1,
+                        "copy": false
+                    },
+                    "targetType": {
+                        "varType": 0,
+                        "value": 2,
+                        "copy": false
+                    },
+                    "effectRange1": {
+                        "varType": 0,
+                        "value": 6,
+                        "copy": false
+                    },
+                    "effectRange2A": {
+                        "varType": 0,
+                        "value": 100,
+                        "copy": false
+                    },
+                    "effectRange2B": {
+                        "varType": 0,
+                        "value": 100,
+                        "copy": false
+                    },
+                    "effectRange3": {
+                        "varType": 12,
+                        "value": {},
+                        "copy": false
+                    },
+                    "releaseRange": {
+                        "varType": 12,
+                        "value": {},
+                        "copy": false
+                    },
+                    "totalCD": {
+                        "varType": 0,
+                        "value": 2,
+                        "copy": false
+                    },
+                    "hit": {
+                        "varType": 0,
+                        "value": 100,
+                        "copy": false
+                    },
+                    "costSP": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "useDamage": {
+                        "varType": 2,
+                        "value": true,
+                        "copy": false
+                    },
+                    "releaseFrame": {
+                        "varType": 0,
+                        "value": 1,
+                        "copy": false
+                    },
+                    "releaseActionID": {
+                        "varType": 0,
+                        "value": 3,
+                        "copy": false
+                    },
+                    "effectRangeType": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "mustOpenSpace": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "costActionPower": {
+                        "varType": 2,
+                        "value": true,
+                        "copy": false
+                    },
+                    "useHate": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "releaseTimes": {
+                        "varType": 0,
+                        "value": 1,
+                        "copy": false
+                    },
+                    "isThroughObstacle": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "bulletSpeed": {
+                        "varType": 0,
+                        "value": 600,
+                        "copy": false
+                    },
+                    "bulletAnimation": {
+                        "varType": 0,
+                        "value": 22,
+                        "copy": false
+                    },
+                    "damageType": {
+                        "varType": 0,
+                        "value": 1,
+                        "copy": false
+                    },
+                    "damageValue": {
+                        "varType": 0,
+                        "value": 25,
+                        "copy": false
+                    },
+                    "additionMultiple": {
+                        "varType": 0,
+                        "value": 125,
+                        "copy": false
+                    },
+                    "useAddition": {
+                        "varType": 2,
+                        "value": true,
+                        "copy": false
+                    },
+                    "additionMultipleType": {
+                        "varType": 0,
+                        "value": 1,
+                        "copy": false
+                    },
+                    "fixedHeteValue": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "damageHatePer": {
+                        "varType": 0,
+                        "value": 100,
+                        "copy": false
+                    },
+                    "releaseAnimation": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "hitAnimation": {
+                        "varType": 0,
+                        "value": 23,
+                        "copy": false
+                    },
+                    "targetGridAnimation": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "targetGridAniLayer": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "releaseEvent": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    },
+                    "hitEvent": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    },
+                    "hitOpenSpaceEvent": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    },
+                    "addStatus": {
+                        "varType": 6,
+                        "value": [
+                            8
+                        ],
+                        "copy": false
+                    },
+                    "removeStatus": {
+                        "varType": 6,
+                        "value": [],
+                        "copy": false
+                    },
+                    "currentCD": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "infoLegend": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    },
+                    "pLabel": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    }
+                }
+            },
+            "copy": false
+        },
+        "hitFrame": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "hitAnimation": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "skills": {
+            "varType": 11,
+            "value": [
+                {
+                    "id": 8,
+                    "data": {
+                        "icon": {
+                            "varType": 1,
+                            "value": "asset/image/picture/icon/skill/Skill_7.png",
+                            "copy": false
+                        },
+                        "intro": {
+                            "varType": 1,
+                            "value": "指定范围内任一位置发动闪烁进行一次瞬间位移！",
+                            "copy": false
+                        },
+                        "skillType": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "targetType": {
+                            "varType": 0,
+                            "value": 5,
+                            "copy": false
+                        },
+                        "effectRange1": {
+                            "varType": 0,
+                            "value": 4,
+                            "copy": false
+                        },
+                        "effectRange2A": {
+                            "varType": 0,
+                            "value": 100,
+                            "copy": false
+                        },
+                        "effectRange2B": {
+                            "varType": 0,
+                            "value": 100,
+                            "copy": false
+                        },
+                        "effectRange3": {
+                            "varType": 12,
+                            "value": {},
+                            "copy": false
+                        },
+                        "releaseRange": {
+                            "varType": 12,
+                            "value": {
+                                "mode": 0,
+                                "size": 11,
+                                "gridData": [
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        1,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ]
+                                ]
+                            },
+                            "copy": false
+                        },
+                        "totalCD": {
+                            "varType": 0,
+                            "value": 2,
+                            "copy": false
+                        },
+                        "hit": {
+                            "varType": 0,
+                            "value": 100,
+                            "copy": false
+                        },
+                        "costSP": {
+                            "varType": 0,
+                            "value": 20,
+                            "copy": false
+                        },
+                        "useDamage": {
+                            "varType": 2,
+                            "value": false,
+                            "copy": false
+                        },
+                        "releaseFrame": {
+                            "varType": 0,
+                            "value": 2,
+                            "copy": false
+                        },
+                        "releaseActionID": {
+                            "varType": 0,
+                            "value": 5,
+                            "copy": false
+                        },
+                        "effectRangeType": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "mustOpenSpace": {
+                            "varType": 2,
+                            "value": true,
+                            "copy": false
+                        },
+                        "costActionPower": {
+                            "varType": 2,
+                            "value": false,
+                            "copy": false
+                        },
+                        "useHate": {
+                            "varType": 2,
+                            "value": false,
+                            "copy": false
+                        },
+                        "releaseTimes": {
+                            "varType": 0,
+                            "value": 1,
+                            "copy": false
+                        },
+                        "isThroughObstacle": {
+                            "varType": 2,
+                            "value": false,
+                            "copy": false
+                        },
+                        "bulletSpeed": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "bulletAnimation": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "damageType": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "damageValue": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "additionMultiple": {
+                            "varType": 0,
+                            "value": 100,
+                            "copy": false
+                        },
+                        "useAddition": {
+                            "varType": 2,
+                            "value": false,
+                            "copy": false
+                        },
+                        "additionMultipleType": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "fixedHeteValue": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "damageHatePer": {
+                            "varType": 0,
+                            "value": 100,
+                            "copy": false
+                        },
+                        "releaseAnimation": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "hitAnimation": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "targetGridAnimation": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "targetGridAniLayer": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "releaseEvent": {
+                            "varType": 1,
+                            "value": "",
+                            "copy": false
+                        },
+                        "hitEvent": {
+                            "varType": 1,
+                            "value": "",
+                            "copy": false
+                        },
+                        "hitOpenSpaceEvent": {
+                            "varType": 1,
+                            "value": "瞬移光标位置上\u000558517398270_0.27824149627848094\u0005[[13,3,15016,0,5,0,1,1,[0,100],0,-1,[2,{\"type\":2,\"posMode\":1,\"customAttrName\":\"\",\"soType\":1,\"useVar\":0,\"no\":0,\"varID\":0,\"actorAttrName\":0,\"actorCustomAttrName\":\"\"},[{\"42657064543_0.724447104540606\":2,\"42657260229_0.9459348877505995\":1,\"42657330474_0.5456078300460445\":\"\",\"42664713486_0.3887133368359288\":1,\"42664713486_0.09898355139063386\":0,\"42664713486_0.7762137906641664\":0,\"42664713486_0.9108713362269023\":0,\"55515190508_0.9159637051309688\":0,\"55515190508_0.6846183079056396\":\"\"}]],0,0,0,{\"___cmdID\":\"58260716984_0.29755463537810334\"}],[13,3,15017,0,5,0,1,1,[0,100],0,-1,[2,{\"type\":3,\"posMode\":1,\"customAttrName\":\"\",\"soType\":1,\"useVar\":0,\"no\":0,\"varID\":0,\"actorAttrName\":0,\"actorCustomAttrName\":\"\"},[{\"42657064543_0.724447104540606\":3,\"42657260229_0.9459348877505995\":1,\"42657330474_0.5456078300460445\":\"\",\"42664713486_0.3887133368359288\":1,\"42664713486_0.09898355139063386\":0,\"42664713486_0.7762137906641664\":0,\"42664713486_0.9108713362269023\":0,\"55515190508_0.9159637051309688\":0,\"55515190508_0.6846183079056396\":\"\"}]],0,0,0,{\"___cmdID\":\"58260716984_0.6759057917077511\"}],[20006,{\"42691436099_0.8290727679738321\":1,\"42692800243_0.10817979826025992\":19,\"52239941363_0.11866270180813276\":0,\"52240088070_0.39725606176340333\":1,\"42692647022_0.5213078957291057\":2,\"42692700542_0.9825288543377158\":0,\"42692719697_0.7848757543816436\":0,\"42692730274_0.23872561935337355\":1,\"42692980955_0.8834541146052268\":0,\"42692981109_0.5276450548815796\":0,\"42692993023_0.6297447669580152\":1,\"42693001203_0.23557071628047788\":true,\"42693083121_0.2657811055450363\":15016,\"42693110044_0.12130863119710433\":15017,\"42749860758_0.42298175338042476\":1},\"58260713509_0.5400594366497773\"],[13,3,15016,0,5,0,1,1,[0,100],0,-1,[2,{\"type\":2,\"posMode\":1,\"customAttrName\":\"\",\"soType\":0,\"useVar\":0,\"no\":0,\"varID\":0,\"actorAttrName\":0,\"actorCustomAttrName\":\"\"},[{\"42657064543_0.724447104540606\":2,\"42657260229_0.9459348877505995\":1,\"42657330474_0.5456078300460445\":\"\",\"42664713486_0.3887133368359288\":0,\"42664713486_0.09898355139063386\":0,\"42664713486_0.7762137906641664\":0,\"42664713486_0.9108713362269023\":0,\"55515190508_0.9159637051309688\":0,\"55515190508_0.6846183079056396\":\"\"}]],0,0,0,{\"___cmdID\":\"58260543738_0.8410090468215212\"}],[13,3,15017,0,5,0,1,1,[0,100],0,-1,[2,{\"type\":3,\"posMode\":1,\"customAttrName\":\"\",\"soType\":0,\"useVar\":0,\"no\":0,\"varID\":0,\"actorAttrName\":0,\"actorCustomAttrName\":\"\"},[{\"42657064543_0.724447104540606\":3,\"42657260229_0.9459348877505995\":1,\"42657330474_0.5456078300460445\":\"\",\"42664713486_0.3887133368359288\":0,\"42664713486_0.09898355139063386\":0,\"42664713486_0.7762137906641664\":0,\"42664713486_0.9108713362269023\":0,\"55515190508_0.9159637051309688\":0,\"55515190508_0.6846183079056396\":\"\"}]],0,0,0,{\"___cmdID\":\"58260556217_0.29848195593356297\"}],[22,-4,0,[[14,1,0,0,15016,15017,true,false,1,true]],0,0,false,1,{\"___cmdID\":\"58260510748_0.03543603004533491\"}]]",
+                            "copy": false
+                        },
+                        "addStatus": {
+                            "varType": 6,
+                            "value": [],
+                            "copy": false
+                        },
+                        "removeStatus": {
+                            "varType": 6,
+                            "value": [],
+                            "copy": false
+                        },
+                        "currentCD": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "infoLegend": {
+                            "varType": 1,
+                            "value": "",
+                            "copy": false
+                        },
+                        "pLabel": {
+                            "varType": 1,
+                            "value": "",
+                            "copy": false
+                        }
+                    }
+                }
+            ],
+            "copy": false
+        },
+        "equips": {
+            "varType": 11,
+            "value": [],
+            "copy": false
+        },
+        "items": {
+            "varType": 11,
+            "value": [],
+            "copy": false
+        },
+        "aiType": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "aiVigilance": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "aiVigilanceRange": {
+            "varType": 0,
+            "value": 10,
+            "copy": false
+        },
+        "aiGetTargetMode": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "moveType": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "dropGold": {
+            "varType": 0,
+            "value": 80,
+            "copy": false
+        },
+        "dropExp": {
+            "varType": 0,
+            "value": 150,
+            "copy": false
+        },
+        "dropEquips": {
+            "varType": 9,
+            "value": [
+                {
+                    "dropProbability": {
+                        "varType": 0,
+                        "value": 20,
+                        "copy": false
+                    },
+                    "equip": {
+                        "varType": 5,
+                        "value": {
+                            "id": 1002,
+                            "data": {
+                                "icon": {
+                                    "varType": 1,
+                                    "value": "asset/image/picture/icon/equip/Helmet_2.png",
+                                    "copy": false
+                                },
+                                "intro": {
+                                    "varType": 1,
+                                    "value": "一开始我是拒绝的，无奈它防御高。",
+                                    "copy": false
+                                },
+                                "sell": {
+                                    "varType": 0,
+                                    "value": 200,
+                                    "copy": false
+                                },
+                                "partID": {
+                                    "varType": 0,
+                                    "value": 1,
+                                    "copy": false
+                                },
+                                "sellEnabled": {
+                                    "varType": 2,
+                                    "value": true,
+                                    "copy": false
+                                },
+                                "maxHP": {
+                                    "varType": 0,
+                                    "value": 10,
+                                    "copy": false
+                                },
+                                "maxSP": {
+                                    "varType": 0,
+                                    "value": 0,
+                                    "copy": false
+                                },
+                                "atk": {
+                                    "varType": 0,
+                                    "value": 0,
+                                    "copy": false
+                                },
+                                "def": {
+                                    "varType": 0,
+                                    "value": 5,
+                                    "copy": false
+                                },
+                                "mag": {
+                                    "varType": 0,
+                                    "value": 0,
+                                    "copy": false
+                                },
+                                "magDef": {
+                                    "varType": 0,
+                                    "value": 5,
+                                    "copy": false
+                                },
+                                "hit": {
+                                    "varType": 0,
+                                    "value": 0,
+                                    "copy": false
+                                },
+                                "moveGrid": {
+                                    "varType": 0,
+                                    "value": 0,
+                                    "copy": false
+                                },
+                                "agi": {
+                                    "varType": 0,
+                                    "value": 0,
+                                    "copy": false
+                                },
+                                "crit": {
+                                    "varType": 0,
+                                    "value": 0,
+                                    "copy": false
+                                },
+                                "magCrit": {
+                                    "varType": 0,
+                                    "value": 0,
+                                    "copy": false
+                                },
+                                "selfStatus": {
+                                    "varType": 6,
+                                    "value": [],
+                                    "copy": false
+                                },
+                                "selfImmuneStatus": {
+                                    "varType": 6,
+                                    "value": [],
+                                    "copy": false
+                                },
+                                "hitTargetStatus": {
+                                    "varType": 6,
+                                    "value": [],
+                                    "copy": false
+                                },
+                                "hitTargetSelfAddStatus": {
+                                    "varType": 6,
+                                    "value": [],
+                                    "copy": false
+                                },
+                                "infoLegend": {
+                                    "varType": 1,
+                                    "value": "",
+                                    "copy": false
+                                }
+                            }
+                        },
+                        "copy": false
+                    }
+                }
+            ],
+            "copy": false
+        },
+        "dropItems": {
+            "varType": 9,
+            "value": [
+                {
+                    "dropProbability": {
+                        "varType": 0,
+                        "value": 50,
+                        "copy": false
+                    },
+                    "item": {
+                        "varType": 0,
+                        "value": 1,
+                        "copy": false
+                    },
+                    "num": {
+                        "varType": 0,
+                        "value": 5,
+                        "copy": false
+                    }
+                },
+                {
+                    "dropProbability": {
+                        "varType": 0,
+                        "value": 50,
+                        "copy": false
+                    },
+                    "item": {
+                        "varType": 0,
+                        "value": 2,
+                        "copy": false
+                    },
+                    "num": {
+                        "varType": 0,
+                        "value": 5,
+                        "copy": false
+                    }
+                }
+            ],
+            "copy": false
+        },
+        "currentEXP": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "increaseMaxHP": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "increaseMaxSP": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "increasePow": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "increaseEnd": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "increaseMag": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "increaseAgi": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "status": {
+            "varType": 11,
+            "value": [],
+            "copy": false
+        },
+        "ATK": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "DEF": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "DOD": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "CRIT": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "MagCrit": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "AI": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "hp": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "sp": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "selfStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "selfImmuneStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "hitTargetStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "hitTargetSelfAddStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "moveSpeed": {
+            "varType": 0,
+            "value": 500,
+            "copy": false
+        }
+    },
+    "id": 1007
+}

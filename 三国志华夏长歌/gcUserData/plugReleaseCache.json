@@ -1,0 +1,4 @@
+{
+    "plugDatas": "[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,[{\"type\":17,\"data\":[{\"filePath\":\"Game/game/custom/sceneObjectModules/SoModule_Shadow.ts\",\"isServer\":false}],\"isAutoRelation\":true,\"selected\":true,\"randID\":1630,\"froms\":[1631]}],null,null,null,null,[{\"type\":22,\"data\":1,\"isAutoRelation\":false,\"selected\":true,\"randID\":1631,\"froms\":[]}]]",
+    "cloudPlugDataID": "315"
+}

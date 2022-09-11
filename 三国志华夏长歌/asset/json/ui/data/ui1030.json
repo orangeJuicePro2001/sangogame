@@ -1,0 +1,34 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "55298718320_0.03564239170076067",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "icon",
+                "x": 0,
+                "y": 0,
+                "width": 50,
+                "height": 50,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/icon/skill/Skill_4.png",
+                "grid9": "0,0,0,0,0",
+                "pivotType": 0
+            }
+        ]
+    },
+    "id": 1030,
+    "instanceClassName": ""
+}

@@ -1,0 +1,34 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "53452067009_0.878412650930837",
+                "condition": [],
+                "type": "UIGUI",
+                "name": "actorInfo",
+                "x": 779,
+                "y": 494,
+                "width": 0,
+                "height": 0,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "guiID": 1025,
+                "instanceClassName": ""
+            }
+        ]
+    },
+    "id": 21,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

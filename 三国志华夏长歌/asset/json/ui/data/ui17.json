@@ -1,0 +1,237 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "58174445765_0.9387422521542819",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "透明背景",
+                "x": 0,
+                "y": 0,
+                "width": 1200,
+                "height": 720,
+                "opacity": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/other/Black.png",
+                "grid9": "0,0,0,0,0",
+                "pivotType": 0
+            },
+            {
+                "id": "57626793341_0.6017769753609419",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "技能栏阴影",
+                "x": 341,
+                "y": 176,
+                "width": 539,
+                "height": 206,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/file/bgShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "57627723816_0.17356913720370581",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "说明栏阴影",
+                "x": 341,
+                "y": 407,
+                "width": 539,
+                "height": 139,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/file/bgShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "53451477675_0.20420835365166656",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "技能栏背景",
+                "x": 323.5,
+                "y": 155,
+                "width": 551,
+                "height": 220,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/uibitmap.png",
+                "grid9": "25,17,21,31,1",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "53451477676_0.3237311529174176",
+                        "condition": [],
+                        "type": "UIList",
+                        "name": "skillList",
+                        "x": 112,
+                        "y": 46,
+                        "width": 433,
+                        "height": 143,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "itemModelGUI": 1006,
+                        "previewSize": 10,
+                        "selectEnable": true,
+                        "repeatX": 4,
+                        "itemWidth": 56,
+                        "itemHeight": 56,
+                        "spaceX": 30,
+                        "spaceY": 22,
+                        "scrollShowType": 2,
+                        "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                        "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                        "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                        "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                        "scrollWidth": 4,
+                        "selectImageURL": "asset/image/picture/ui/team/skillSelect.png",
+                        "selectImageGrid9": "5,5,5,5,1",
+                        "selectedImageAlpha": 1,
+                        "selectedImageOnTop": true,
+                        "overImageURL": "",
+                        "overImageGrid9": "0,0,0,0,0",
+                        "overImageAlpha": 1,
+                        "overImageOnTop": false,
+                        "overSelectMode": true,
+                        "slowmotionType": 0
+                    }
+                ]
+            },
+            {
+                "id": "53451857892_0.23820267772157933",
+                "condition": [],
+                "type": "UIGUI",
+                "name": "tipsUI",
+                "x": 326,
+                "y": 394,
+                "width": 0,
+                "height": 0,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "guiID": 1027,
+                "instanceClassName": ""
+            },
+            {
+                "id": "53453444392_0.4194503639646978",
+                "condition": [],
+                "type": "UIButton",
+                "name": "关闭技能栏按钮",
+                "x": 858,
+                "y": 142,
+                "width": 39,
+                "height": 44,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "",
+                "image1": "asset/image/picture/ui/file/closeBtnNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/file/closeBtnSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/file/closeBtnSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#999999",
+                "overColor": "#999999",
+                "clickColor": "#999999",
+                "bold": false,
+                "italic": false,
+                "smooth": false,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": 0,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            }
+        ]
+    },
+    "id": 17,
+    "instanceClassName": "GUI_BattleSkill",
+    "hasRootCommand": []
+}

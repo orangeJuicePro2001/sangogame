@@ -1,0 +1,71 @@
+{
+    "list": [
+        null,
+        "范例演示",
+        "正常战斗",
+        "剧情战斗",
+        "自动战斗与中途事件",
+        "游戏开始",
+        "转场测试",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "node": [
+        {
+            "id": 1,
+            "name": "范例演示",
+            "children": [
+                {
+                    "id": 2,
+                    "name": "正常战斗",
+                    "children": [],
+                    "isOpen": true
+                },
+                {
+                    "id": 3,
+                    "name": "剧情战斗",
+                    "children": []
+                },
+                {
+                    "id": 4,
+                    "name": "自动战斗与中途事件",
+                    "children": [],
+                    "isOpen": true
+                }
+            ],
+            "isOpen": true
+        },
+        {
+            "id": 5,
+            "name": "游戏开始",
+            "children": [
+                {
+                    "id": 6,
+                    "name": "转场测试",
+                    "children": []
+                }
+            ],
+            "isOpen": true
+        }
+    ]
+}

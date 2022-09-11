@@ -1,0 +1,160 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "55298481818_0.3540584221080836",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "icon",
+                "x": 0,
+                "y": 0,
+                "width": 32,
+                "height": 32,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/icon/item/Medicine_1.png",
+                "grid9": "3,3,3,3,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "55298481819_0.004250028496342262",
+                "condition": [],
+                "type": "UIString",
+                "name": "itemNum",
+                "x": 83,
+                "y": 12,
+                "width": 39,
+                "height": 17,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "99",
+                "fontSize": 16,
+                "color": "#523731",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 2,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            },
+            {
+                "id": "55298598401_0.926913427819275",
+                "condition": [],
+                "type": "UIString",
+                "name": "itemNumLabel",
+                "x": 124,
+                "y": 12,
+                "width": 12,
+                "height": 18,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "x",
+                "fontSize": 16,
+                "color": "#523731",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 0,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            },
+            {
+                "id": "58602674296_0.3048716374755176",
+                "condition": [],
+                "type": "UIString",
+                "name": "itemName",
+                "x": 32,
+                "y": 14,
+                "width": 103,
+                "height": 19,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "道具名称",
+                "fontSize": 13,
+                "color": "#523731",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 0,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            }
+        ]
+    },
+    "id": 1029,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}
